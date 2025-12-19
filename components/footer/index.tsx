@@ -15,7 +15,7 @@ export const Footer = () => {
             </p>
           </div>
 
-          <div className="flex items-center justify-center md:justify-start gap-4">
+          <div className="flex items-center justify-center md:justify-start gap-4 w-full md:w-auto">
             <Link
               href="https://www.instagram.com/unmarvertical/"
               target="_blank"
