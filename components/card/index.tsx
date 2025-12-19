@@ -18,7 +18,7 @@ export const Card = ({
 }: CardProps) => {
   return (
     <div className={`flex flex-col gap-4 ${className} justify-between`}>
-      <div className="flex flex-col gap-4+">
+      <div className="flex flex-col gap-4">
         <Image
           width={300}
           height={300}

@@ -27,14 +27,6 @@ export const Footer = () => {
             </Link>
 
             <Link
-              href="#"
-              className="text-gray-400 hover:text-[#FF6719] transition-colors duration-200"
-              aria-label="GitHub"
-            >
-              <Github size={24} />
-            </Link>
-
-            <Link
               href="https://substack.com/@elinteriordelinterior"
               target="_blank"
               rel="noopener noreferrer"
